@@ -1,10 +1,11 @@
-# vue-project
+# tailwind-vue-starter-template
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 + Tailwind css in Vite.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) + [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss).
+
 
 ## Type Support for `.vue` Imports in TS
 
@@ -20,11 +21,13 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+See [Tailwind Configuration Reference](https://tailwindcss.com/docs/configuration)
 
 ## Project Setup
 
 ```sh
 npm install
+yarn instal
 ```
 
 ### Compile and Hot-Reload for Development
@@ -38,3 +41,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Template by [kythonlk](kythonlk.com)
